@@ -41,7 +41,7 @@ layer using two primitives:
 
 - [x] Problem definition and threat model
 - [x] Architecture design — SMT + ECVRF integration
-- [ ] Sparse Merkle Tree core implementation
+- [x] Sparse Merkle Tree core implementation
 - [ ] ECVRF proof generation
 - [ ] Key substitution attack simulation
 - [ ] Evaluation and write-up
