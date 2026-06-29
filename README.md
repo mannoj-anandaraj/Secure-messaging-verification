@@ -44,6 +44,7 @@ layer using two primitives:
 - [x] Sparse Merkle Tree core implementation
 - [x] Sparse Merkle Tree unit tests
 - [x] ECVRF proof generation
+- [x] Signal Protocol simulation
 - [ ] Key substitution attack simulation
 - [ ] Evaluation and write-up
 
